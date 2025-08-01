@@ -48,6 +48,6 @@ def main():
         response = prediction(in_data)
         st.sucess(response)
 
-if__name__=='__main__':
+if__name__== '__main__' :
     main()
    
